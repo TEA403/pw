@@ -10,7 +10,7 @@ pip install requests
 
 ติดตั้งสคริปต์
 
-git clone https://github.com/earthza001/error
+git clone https://github.com/TEA403/pw
 
 ls
 
